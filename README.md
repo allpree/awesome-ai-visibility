@@ -92,6 +92,7 @@
 
 - [ai-crawlers (BrandVirality)](https://github.com/josezuma/ai-crawlers) - Machine-readable dataset of AI crawler user-agents with robots.txt recipes.
 - [Dark Visitors](https://darkvisitors.com) - Database of AI crawler user-agents and their behaviors.
+- [AI Bots Directory (aiseen.cloud)](https://aiseen.cloud/en/bots/) - 27 AI crawlers (search, user-triggered and training) with user-agents, purpose, and ready robots.txt allow/block snippets per bot.
 - [AI Crawler List (Cloudflare)](https://developers.cloudflare.com) - Official list of AI crawlers detected by Cloudflare.
 - [GPTBot Documentation](https://platform.openai.com/docs/gptbot) - OpenAI's official GPTBot crawler documentation.
 - [ClaudeBot Documentation](https://docs.anthropic.com/en/docs/claudebot) - Anthropic's official ClaudeBot crawler documentation.
